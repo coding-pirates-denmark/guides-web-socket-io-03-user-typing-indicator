@@ -138,7 +138,7 @@ Her sker der tre ting:
     <button>Send</button>
   </form>
 
-  /socket.io/socket.io.js</script>
+  <script src="/socket.io/socket.io.js"></script>
   <script>
     const socket = io();
 
